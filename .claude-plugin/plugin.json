@@ -1,0 +1,21 @@
+{
+  "name": "oya-plugin",
+  "id": "oya-plugin-v0.1.0",
+  "version": "0.1.0",
+  "category": "business",
+  "description": "Intentional weekly and daily planning plugin for Cowork and Claude-compatible workflows.",
+  "repo_url": "https://github.com/foogunlana/oya-plugin",
+  "compatible": [
+    "Cowork",
+    "Claude"
+  ],
+  "tags": [
+    "planning",
+    "productivity",
+    "weekly-review",
+    "daily-planning"
+  ],
+  "author": {
+    "name": "Foluso Olabode Ogunlana"
+  }
+}
